@@ -1,2 +1,2 @@
-# Leetcode-Java
-Repositorio con problemas de leetcode resueltos en Java, con explicaciones y usos.
+# Java-Practices
+Repositorio con practicas integrales de java, expansión de conocimientos, problemas de leetcode/codewars y conceptos clave del lenguaje.
